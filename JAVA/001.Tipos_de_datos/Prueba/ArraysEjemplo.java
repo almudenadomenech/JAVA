@@ -1,5 +1,5 @@
 
-public class Arrays {
+public class ArraysEjemplo {
     public static void main(String[] args) {
 
         // Array es una estructura de datos
